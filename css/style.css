@@ -1,31 +1,46 @@
-h1{
-	font-size: 30px;
-	color: rgb(231, 83, 224);
-}
-h2{
-		font-size: 30px;
-		color: rgb(255, 8, 0);
-	}
-p{
-	font-size: 20px;
-	color: rgba(60, 184, 12, 0.904);
-}
-li:first-child{
-	font-size: 20px;
-	color:#ff0000;	
-}
-li:nth-child(2){
-   font-size: 20px;
-	color: #ff6347;
-}	
-li:nth-child(3){
-	font-size: 20px;
-	color: blue;
-}
-li:last-child{
-	font-size: 20px;
-	color: hotpink;
+h1 {
+  font-size: 30px;
+  color: rgb(231, 83, 224);
+  font-family: "Roboto", sans-serif;
 }
 
+img {
+  width: 700px;
+  height: 700px;
+}
 
+h2 {
+  font-family: "New Tegomin", serif;
+  font-size: 23px;
+  color: rgb(255, 8, 0);
+}
+p {
+  font-family: "New Tegomin", serif;
+  font-family: "Open Sans", sans-serif;
 
+  font-size: 20px;
+  color: rgba(60, 184, 12, 0.904);
+}
+ol {
+  font-family: "Train One", cursive;
+}
+li:first-child {
+  font-size: 20px;
+  color: #ff0000;
+}
+li:nth-child(2) {
+  font-size: 20px;
+  color: #ff6347;
+}
+li:nth-child(3) {
+  font-size: 20px;
+  color: blue;
+}
+li:last-child {
+  font-size: 20px;
+  color: hotpink;
+}
+
+div {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
